@@ -39,3 +39,5 @@ Once the server is running, you can access the interactive API documentation at:
 
 http://127.0.0.1:8000/docs
 This interface allows you to test all the API endpoints directly from your browser.
+
+In next phase i will implement streamlit with it soon.
